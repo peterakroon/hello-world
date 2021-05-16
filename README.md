@@ -1,2 +1,2 @@
 # hello-world
-Dit zijn mijn eerste probeersels op github.
+Dit zijn mijn 1e probeersels op github.
