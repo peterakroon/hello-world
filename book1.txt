@@ -1,0 +1,3 @@
+Boek1, rev. 0.1 pak
+Dit is een tekstfile genaamd boek1.txt
+Er zijn twee regels.
