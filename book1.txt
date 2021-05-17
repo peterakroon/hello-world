@@ -4,3 +4,4 @@ Er zijn twee regels
 Nu zijn het er al drie (3)
 
 Dit ga ik eerst stagen en dan nog eens modifyen voor ik het commit.
+Staged. nu nog een edit. wat gebeurt er dan met de file?
